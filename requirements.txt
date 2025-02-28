@@ -12,7 +12,7 @@ redis==5.0.7
     # via spotipy
 requests==2.32.3
     # via spotipy
-spotipy==2.24.0
+spotipy==2.25.1
     # via -r requirements.in
 urllib3==2.2.2
     # via
